@@ -15,6 +15,7 @@
     <members>PropertyController</members>
     <members>SampleDataController</members>
     <members>TestPropertyController</members>
+    <members>ContactController</members>
   </types>
   <types>
     <name>ContentAsset</name>
@@ -98,6 +99,7 @@
     <members>Property__c.Thumbnail__c</members>
     <members>Property__c.Title__c</members>
     <members>Property__c.Zip__c</members>
+    <members>Property__c.Features__c</members>
   </types>
   <types>
     <name>ListView</name>
@@ -123,5 +125,5 @@
     <members>Property__c</members>
     <members>Settings</members>
   </types>
-  <version>49.0</version>
+  <version>48.0</version>
 </Package>
